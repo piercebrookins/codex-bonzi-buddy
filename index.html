@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Codex Buddy</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="desktop" aria-label="Codex Buddy desktop">
+      <section class="console" aria-label="Activity log">
+        <div class="console-top">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <pre id="log">codex-buddy booting...
+workspace: ready
+mode: helpful but suspiciously cheerful</pre>
+      </section>
+
+      <aside class="dock" aria-label="Buddy controls">
+        <button id="talk" type="button">Talk</button>
+        <button id="joke" type="button">Joke</button>
+        <button id="dance" type="button">Dance</button>
+        <button id="nap" type="button">Nap</button>
+      </aside>
+
+      <div id="buddy" class="buddy" role="img" aria-label="A Codex themed Bonzi Buddy pet">
+        <div id="bubble" class="bubble" role="status" aria-live="polite">
+          Need help making this code behave?
+        </div>
+        <div class="pet" id="pet">
+          <img src="assets/bonzi.png" alt="">
+          <div class="visor"></div>
+          <div class="badge">CX</div>
+          <div class="cursor"></div>
+        </div>
+      </div>
+
+      <nav id="menu" class="menu" aria-label="Buddy menu">
+        <button type="button" data-action="talk">Say something</button>
+        <button type="button" data-action="dance">Do a little dance</button>
+        <button type="button" data-action="joke">Tell a joke</button>
+        <button type="button" data-action="hide">Hide bubble</button>
+      </nav>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

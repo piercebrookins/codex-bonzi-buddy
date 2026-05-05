@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "runs/bonzex",
+  "spritesheet": "runs/bonzex/final/spritesheet.webp",
+  "validation": "runs/bonzex/final/validation.json",
+  "contact_sheet": "runs/bonzex/qa/contact-sheet.png",
+  "review": "runs/bonzex/qa/review.json",
+  "videos": "runs/bonzex/qa/videos",
+  "package": "pets/bonzex"
+}
