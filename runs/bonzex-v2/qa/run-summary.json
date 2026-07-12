@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run",
+  "spritesheet": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/final/spritesheet-extended.webp",
+  "validation": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/final/validation-extended.json",
+  "chroma_despill": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/look-directions.png",
+  "direction_semantics": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/direction-blind-validation.json",
+  "continuity": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/look-continuity.json",
+  "review": "/Users/pierce/Documents/Codex/2026-07-10/hatch-pet-users-pierce-codex-skills/work/bonzex-v2/run/qa/review.json",
+  "package": "/Users/pierce/.codex/pets/bonzex"
+}
